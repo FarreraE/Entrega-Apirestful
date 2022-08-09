@@ -1,0 +1,22 @@
+POST http://localhost:8080/api/productos HTTP/1.1
+content-Type: application/json
+
+{
+    "nombre":"Queso",
+    "precio":4,
+    "thumbnail":"www.fotoQueso.com"
+}
+### 
+
+PUT http://localhost:8080/api/productos/1 HTTP/1.1
+content//-Type: application/json
+
+{
+    "nombre":"Aguacate",
+    "precio":400,
+    "thumbnail":"www.fotoMango.com"
+}
+
+### 
+DELETE http://localhost:8080/api/productos/1 HTTP/1.1
+content-Type: application/json

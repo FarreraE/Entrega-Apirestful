@@ -1,0 +1,1 @@
+[{"nombre":"Melon","precio":1,"thumbnail":"www.fotoMelon.com","id":1},{"nombre":"Pera","precio":2,"thumbnail":"www.fotoPera.com","id":2},{"nombre":"Uva","precio":3,"thumbnail":"www.fotoUva.com","id":3}]
